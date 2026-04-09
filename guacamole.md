@@ -5,3 +5,4 @@
 * salt     £1
 ## Instructions
 * put 1 avocado in a bowl
+* mash the avocado
